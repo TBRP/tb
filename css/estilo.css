@@ -9,6 +9,7 @@ body{
     height: 100vh;
     background-color: #222;
     background-image: url('https://wallpaperset.com/w/full/a/b/7/175103.jpg');
+    background-attachment: fixed;
     background-position: right;
     font-family: sans-serif;
     color: #fff;
