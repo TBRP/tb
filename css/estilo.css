@@ -10,6 +10,8 @@ body{
     background-color: #222;
     background-image: url('../imagens/sultan_bg.png');
     background-position: center;
+    background-attachment: fixed;
+    background-position: right;
     font-family: sans-serif;
     color: #fff;
     height: 100vh;
